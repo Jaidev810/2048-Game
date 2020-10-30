@@ -8,4 +8,4 @@ To start the game, run:
     $ python3 2048.py
     
 -----------------
-![Screen Shot](/ss.JPG?raw=true)
+![Screen Shot](/ss.JPG?raw=true "Screen Shot")
